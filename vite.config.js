@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import path from 'path';
 
 export default defineConfig({
-  base: '/portfolio-sameen/',
+  base: '/sameenhafsaa/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {

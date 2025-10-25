@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sameenhafsa.github.io/portfolio-sameen",
+  "homepage": "https://sameenhafsa.github.io/sameenhafsaa",
 
   "scripts": {
     "dev": "vite",
