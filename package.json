@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://sameenhafsa.github.io/portfolio-sameen",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
