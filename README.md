@@ -87,17 +87,9 @@ npm run build
 npm run preview
 
 
-# Deploy Command (for GitHub Pages):
+Deploy Command (for GitHub Pages):
 
 npm run deploy
-
-# Customization
-
-About Me Section: Edit the text in Home.jsx to include your personal background.
-
-Projects: Update projects displayed on the homepage with your own work.
-
-Animations & Styling: Modify index.css for custom animations or tweak Tailwind classes.
 
 # Contributing
 
