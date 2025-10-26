@@ -25,7 +25,7 @@ export const AboutSection = () => {
           </div>
 
           {/* Skill Highlights */}
-          <div className="grid grid-cols-1 gap-6">
+      {/*    <div className="grid grid-cols-1 gap-6">
             <div className="flex items-start gap-4">
               <div className="p-3 rounded-full bg-primary/10">   
                 <Code className="h-6 w-6 text-primary"/>  
@@ -61,7 +61,7 @@ export const AboutSection = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
