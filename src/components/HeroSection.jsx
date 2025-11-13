@@ -73,15 +73,6 @@ export const HeroSection = () => {
             >
               <Linkedin className="h-6 w-6 stroke-[1.5]" />
             </a>
-            <a
-              href="https://instagram.com/hfsmn_"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-[#E1306C] transition-colors"
-              title="Instagram"
-            >
-              <Instagram className="h-6 w-6 stroke-[1.5]" />
-            </a>
           </div>
 
           {/* --- Button --- 

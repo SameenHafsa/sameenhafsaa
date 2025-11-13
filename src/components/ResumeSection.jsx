@@ -40,9 +40,6 @@ export const ResumeSection = () => {
             <div>
               <div className="flex justify-center">
                 <div className="flex items-center space-x-4">
-                  <span className="text-green-500 font-semibold">
-                    2022 - 2023
-                  </span>
                   <div className="border-l-2 border-emerald-500 h-full"></div>
                 </div>
                 <div className="ml-8 max-w-2xl">
@@ -62,9 +59,6 @@ export const ResumeSection = () => {
 
               <div className="flex justify-center mt-10">
                 <div className="flex items-center space-x-4">
-                  <span className="text-green-500 font-semibold">
-                    2016 - 2020
-                  </span>
                   <div className="border-l-2 border-emerald-500 h-full"></div>
                 </div>
                 <div className="ml-8 max-w-2xl">
@@ -96,11 +90,7 @@ export const ResumeSection = () => {
                     Software Engineer
                   </h4>
                   <p className="text-white">
-                    Concord Systems, Chicago, IL
-                  </p>
-                  <p className="mt-2 text-white">
-                    Developed and deployed scalable web applications using React, 
-                    Node.js, and Java Spring Boot, while optimizing CI/CD pipelines and collaborating with cross-functional teams.
+                    BMO Harris Bank, Chicago, IL
                   </p>
                 </div>
               </div>
@@ -108,28 +98,25 @@ export const ResumeSection = () => {
               <div className="flex justify-center mt-10">
                 <div className="flex items-center space-x-4">
                   <span className="text-green-500 font-semibold">
-                    2022 - 2023
+                    2021 - 2023
                   </span>
                   <div className="border-l-2 border-emerald-500 h-full"></div>
                 </div>
                 <div className="ml-8 max-w-2xl">
                   <h4 className="text-xl font-bold text-white">
-                    Software Engineer Assistant
+                    Software Engineer 
                   </h4>
                   <p className="text-white">
-                    Elmhurst University, Elmhurst, IL
+                    BMC, Chicago, IL
                   </p>
-                  <p className="mt-2 text-white">
-                    Resolved TDNext system tickets
-                     and contributed to feature design and implementation, improving software reliability and reducing bug reports.
-                  </p>
+
                 </div>
               </div>
 
               <div className="flex justify-center mt-10">
                 <div className="flex items-center space-x-4">
                   <span className="text-green-500 font-semibold">
-                    2019 - 2021
+                    2018 - 2020
                   </span>
                   <div className="border-l-2 border-emerald-500 h-full"></div>
                 </div>
@@ -138,10 +125,6 @@ export const ResumeSection = () => {
                     Software Engineer
                   </h4>
                   <p className="text-white">Vertilink Technologies, India</p>
-                  <p className="mt-2 text-white">
-                    Built and deployed full-stack web applications using React, Node.js, TypeScript, Spring Boot,
-                     and MongoDB, automating workflows with Python to improve efficiency and accuracy by 40%.
-                  </p>
                 </div>
               </div>
             </div>

@@ -12,8 +12,8 @@ export const AboutSection = () => {
           <div className="space-y-6">
             
             <p className="text-muted-foreground">
-              I'm a passionate Full Stack Developer with 5+ years of experience in building scalable, secure, and high-performance web applications. 
-              My expertise spans Java backend development (Spring Boot, Spring Security, Hibernate, RESTful APIs), databases (SQL & NoSQL), and frontend technologies (React.js, Angular.js, Tailwind CSS, JavaScript).
+              I'm a passionate Full Stack Developer with 6+ years of experience in building scalable, secure, and high-performance web applications. 
+              My expertise spans Java backend development ( Hibernate, RESTful APIs), databases (SQL & NoSQL), and frontend technologies (React.js, Angular.js, Tailwind CSS, JavaScript).
             </p>
             <p className="text-muted-foreground">
               I have hands-on experience with cloud platforms (AWS, Azure, GCP), containerization (Docker, Kubernetes), DevOps practices, and agile workflows. 
