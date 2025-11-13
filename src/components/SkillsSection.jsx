@@ -10,7 +10,7 @@ export const SkillsSection = () => {
       title: "Backend Development",
       desc: "Specialized in creating efficient, secure, and maintainable backend services.",
       skills: [
-        "Spring Boot", "Spring Security", "JDBC", "JPA", "JSON", "SOAP", "Node.js"
+        "JDBC", "JPA", "JSON", "SOAP", "Node.js"
       ],
       gradient: "from-blue-500/40 via-cyan-400/20 to-green-400/20",
     },
@@ -32,7 +32,7 @@ export const SkillsSection = () => {
       title: "Tools and Platforms",
       desc: "Proficient in development, testing, and collaboration tools for efficient project delivery.",
       skills: [
-        "GitHub", "GitLab", "Visual Studio", "NetBeans", "JIRA", "Postman", "JUnit", "Mockito", "Android Studio", "Linux", "UNIX"
+        "GitHub", "GitLab", "Visual Studio", "NetBeans", "JIRA", "Jenkins", "Postman", "JUnit", "Mockito", "Android Studio", "Linux", "UNIX"
       ],
       gradient: "from-pink-400/40 via-red-400/20 to-orange-400/20",
     },
